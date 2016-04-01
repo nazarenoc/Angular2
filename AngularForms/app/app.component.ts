@@ -20,4 +20,4 @@ export class AppComponent {
         this.submitted = true;
         console.log("sending..." + JSON.stringify(this.user));
     }
-}
+} 
